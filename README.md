@@ -1,0 +1,4 @@
+[Heartrate Monitor from Amazon](amazon.com/KYTO-Bluetooth-Compatible-Basketball-Exercise/dp/B0DXF8JH5T/ref=sr_1_9_sspa?crid=ZD6SE2JZB647&dib=eyJ2IjoiMSJ9.SYWPC6dBrraYI5XaJuTIwfhwe11jF6ucTXqQoH91-KumHTh4krtI_0QqtG3Sb8Wr3RaOAnTJOSuN0eTkMIahfzTZaB5vCVJdKJuwbCPz6B1F27kGSZ77lT-OJ7cXXyLxGvi_YObYc2REtxGVl5kRbIn9us6dstmiax05qJS6kAlKQHKu9LcExBDLXqUzCNdXQIxVqyHMgY7iHKZTndFVWV-G01ajlUEU_YagNBBCJ98.xiL68Ies8IaxLHAnhpHcp7X6rq-h_1wEmf-NqD3eb_8&dib_tag=se&keywords=heartrate+monitor&qid=1772489503&sprefix=heartrate+monito%2Caps%2C214&sr=8-9-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1)
+
+# Instructions
+Basically you just put on the heartrate monitor and run the script! Change the `MONITOR_NUMBER` variable to change which monitor you're taking a screenshot of. You can also easily change the `HR_SPIKE_THRESHOLD` variable to change when you want to start triggering screenshots. `SCREENSHOT_INTERVAL` is the time inbetween screenshots when your heartrate is above the threshold.
